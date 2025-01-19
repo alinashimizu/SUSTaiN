@@ -169,3 +169,22 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+#Python-specific
+__pycache__/
+*.pyc
+*.pyo
+
+#Conda environments
+env/
+*.conda
+*.yaml
+
+#PyInstaller files
+dist/
+build/
+*.spec
+
+#IDE-specific
+.vscode/
+.idea/
+
