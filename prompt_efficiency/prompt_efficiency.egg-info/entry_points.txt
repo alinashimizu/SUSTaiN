@@ -1,0 +1,2 @@
+[console_scripts]
+rate-prompt = pop_up.main:main

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: prompt_efficiency
+Version: 0.1.0
+Summary: A simple tool to help users rate their prompts for efficiency
+Home-page: https://github.com/alinashimizu/SUSTaiN
+Author: Alina Shimizu
+Author-email: alina.shimizu-jozi@mail.mcgill.ca
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
