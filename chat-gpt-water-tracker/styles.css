@@ -1,10 +1,4 @@
-/* styles.css */
-/* Ensure our water usage tracker has the desired appearance */
-#water-usage-tracker {
-    font-size: 12px;
-    color: #888;
-    margin-top: 4px;
-    text-decoration: underline;
-  }
-  
-
+/* Floating panel overrides if you want them (kept minimal). */
+#water-usage-panel {
+  backdrop-filter: saturate(180%) blur(6px);
+}

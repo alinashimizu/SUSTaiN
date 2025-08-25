@@ -16,7 +16,7 @@ To use this script as a developer extension in Google Chrome, follow these steps
 1. Open a terminal and navigate to your desired directory.
 2. Clone the repository:
    
-   git clone https://github.com/YOUR_GITHUB_USERNAME/chatgpt-water-tracker.git
+   git clone https://github.com/alinashimizu/chatgpt-water-tracker.git
    
 3. Navigate into the project folder:
 
