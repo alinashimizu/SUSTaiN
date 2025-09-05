@@ -3,7 +3,6 @@
   "name": "Water Usage Tracker for ChatGPT (Unofficial)",
   "version": "1.2.1",
   "description": "Estimates water usage per prompt and keeps a daily log; export to CSV.",
-  "permissions": ["storage"],
   "content_scripts": [{
     "matches": ["https://chat.openai.com/*", "https://chatgpt.com/*"],
     "js": ["content.js"],
